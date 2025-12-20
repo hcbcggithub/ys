@@ -18,10 +18,10 @@ const Gallerypage: NextPage = () => {
   const menu ={
     "regular items": ['pork_tonkotsu_ramen', 'new_aromatic_spicy_tantan_ramen', 'chicken_shio_butter_ramen', 'tokyo_shoyu_ramen', 'chashu_donburi', 'brussels_vegetable_donburi', 'ikageso_age', 'kaki_fry'],
     "special": {
-      "appetizers & dessert": ['kurobuta_roast_pork_katsu_appetizer', 'spicy_gyoza_salad', 'berry_kanten'],
+      "appetizers & dessert": ['kurobuta_roast_pork_katsu_appetizer', 'spicy_gyoza_salad', 'ika_tempura', 'shrimp_shumai'],
       "dish": {
-        "noodle": ["pork_yakisoba", 'beef_gyuuniku_udon','hiyashi_chuuka' ,'vegetable_soba_salad'],
-        "rice": ['double_spicy_tuna_donburi', 'tuna_poke_donburi', 'teriyaki_steak_donburi', 'kurobuta_curry', 'pork_kurobuta_roast_katsu_teishoku', 'spicy_pirikara_pork_butashogayaki_teishoku', 'pork_butashogayaki_teishoku']
+        "noodle": ["karu_men_pasta", "mentai_men_pasta", "naporitan_pasta","pork_yakisoba", "chicken_curry_udon", 'beef_gyuuniku_udon'],
+        "rice": ["beef_gyuuniku_donburi", 'double_spicy_tuna_donburi', 'tuna_poke_donburi', 'kurobuta_curry','chicken_karaage_curry_platter', 'pork_kurobuta_roast_katsu_teishoku', 'spicy_pirikara_pork_butashogayaki_teishoku', 'pork_butashogayaki_teishoku']
       }
     }  
   }
